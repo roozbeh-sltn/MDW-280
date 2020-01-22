@@ -7,5 +7,20 @@ public class Mathoutil {
 		
 		
 	} 
+	
+	
+	public double Cercle(double r) {
+		return Math.PI* r * r;
+	
+	}
+	
+	public int division( int a , int b) {
+		return a / b ;
+	}
+	
+	public int multi(int a , int b) {
+		return a*b;
+		
+	}
 
 }
